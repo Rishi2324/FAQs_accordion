@@ -46,10 +46,6 @@ Users can click on a question to reveal or hide the answer dynamically.
 
 ---
 
-## 📸 Screenshot
-
-(Add screenshot image here)
-
 ---
 
 ## 👨‍💻 Author
